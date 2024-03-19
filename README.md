@@ -1,3 +1,3 @@
-100 days of coding challange learn typscript.
+100 days of coding challange learn typescript.
 
 
