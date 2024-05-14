@@ -20,7 +20,7 @@
 
 // • Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
  
-let places : string [] = ["Saudi Arabia","Dubai","UAE","USA","China"];
+let places : string [] = ["Saudi Arabia:","Dubai","UAE","USA","China"];
 console.log("Original Order :",places);
  console.log("Alphabetical order", [...places].sort());
  console.log("Original Order :",places);
