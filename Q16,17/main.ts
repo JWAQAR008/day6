@@ -31,7 +31,7 @@ guests.forEach((guest) =>{
 // • Remove the last two names from your list, so you have an empty list. Print your list to make sure you actually have an empty list at the end of your program.
 
 
-console.log( "Unfortunatly, I can only invite two people for dinner");
+console.log( "Unfortunatly, I can only invite two people for dinner!");
 
 while (guests.length> 2){
     let removeGuest = guests.pop();
